@@ -268,6 +268,7 @@ A curated list of awesome libraries, projects, tutorials, papers, and other reso
 - [Why is the (KAN) Kolmogorov-Arnold Networks so promising](https://engyasin.github.io/posts/why-the-new-kolmogorov-arnold-networks-so-promising/)
 - [Demystifying Kolmogorov-Arnold Networks: A Beginner-Friendly Guide with Code](https://daniel-bethell.co.uk/posts/kan/)
 - [KANvas](https://kanvas.deepverse.tech/#/kan) : Provide quick & intuitive interaction for people to try KAN
+- [KANLab](https://kanlab.app/) : Interactive in-browser playground for training and visualizing KANs, based on TensorFlow Playground | [code](https://github.com/lniehaus/kanlab) ｜ ![Github stars](https://img.shields.io/github/stars/lniehaus/kanlab.svg)
 - [KAN-Tutorial](https://github.com/pg2455/KAN-Tutorial/): Understanding Kolmogorov-Arnold Networks: A Tutorial Series on KAN using Toy Examples
 - [KAN-Continual_Learning_tests](https://github.com/MrPio/KAN-Continual_Learning_tests) : Collection of tests performed during the study of the new Kolmogorov-Arnold Neural Networks (KAN) ｜ ![Github stars](https://img.shields.io/github/stars/MrPio/KAN-Continual_Learning_tests.svg)
 - [The Annotated Kolmogorov Network (KAN)](https://alexzhang13.github.io/blog/2024/annotated-kan/): An annotated code guide implementation of KAN, like the Annotated Transformer.
